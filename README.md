@@ -1,1 +1,1 @@
-# filipino-tiktok-hatespeech
+# Hate Speech Dataset from Filipino Tiktok
