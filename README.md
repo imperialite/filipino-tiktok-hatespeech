@@ -1,4 +1,4 @@
-# Hate Speech Text Dataset from Filipino Tiktok
+# Filipino Hate Speech Text Dataset from Tiktok
 
 This repository contains the hate speech text dataset from the paper [A BERT-based Hate Speech Classifier from Transcribed Online Short-Form Videos](https://dl.acm.org/doi/abs/10.1145/3485768.3485806) transcribed from collected videos from Tiktok. Compiled by Rommel Urbano Jr., Jeffrey Uy, Angelic Angeles, Maria Nikki Quintos, Joseph Marvin Imperial, Ramon Rodriguez and presented at ICSET 2021.
 
